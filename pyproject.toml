@@ -19,6 +19,7 @@ mypy = "^1.4.1"
 [tool.poetry.group.test.dependencies]
 pytest = "^7.4.0"
 mypy = "^1.4.1"
+pytest-watch = "^4.2.0"
 
 [build-system]
 requires = ["poetry-core"]
